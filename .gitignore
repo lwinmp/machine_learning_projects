@@ -1,0 +1,35 @@
+# Environment / secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# ML model files
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.onnx
+*.safetensors
+
+# Vector databases / generated RAG data
+chroma.sqlite3
+*.bin
+
+# PDFs / large documents
+*.pdf
