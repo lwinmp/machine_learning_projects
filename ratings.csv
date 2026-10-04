@@ -1,0 +1,121 @@
+userId,movieId,title,rating
+1,8,Fight Club,3.7
+1,1,The Shawshank Redemption,4.6
+1,24,The Departed,4.3
+1,9,Forrest Gump,4.4
+1,32,The Pianist,3.5
+1,28,Joker,3.6
+1,5,Schindler's List,3.8
+1,30,Mad Max: Fury Road,4.4
+2,13,The Silence of the Lambs,4.4
+2,23,Whiplash,4.7
+2,21,Avengers: Endgame,3.5
+2,31,Shutter Island,4.7
+2,18,The Green Mile,4.5
+2,14,Se7en,4.0
+2,8,Fight Club,3.7
+2,15,Interstellar,4.9
+3,22,Parasite,3.9
+3,4,12 Angry Men,3.6
+3,3,The Dark Knight,4.2
+3,13,The Silence of the Lambs,3.7
+3,31,Shutter Island,4.9
+3,12,Goodfellas,3.6
+3,27,The Social Network,3.9
+3,20,The Lion King,4.4
+4,24,The Departed,4.7
+4,19,The Prestige,5.0
+4,7,The Lord of the Rings: The Return of the King,4.8
+4,23,Whiplash,4.8
+4,3,The Dark Knight,4.1
+4,2,The Godfather,4.2
+4,22,Parasite,4.8
+4,8,Fight Club,3.7
+5,23,Whiplash,4.4
+5,7,The Lord of the Rings: The Return of the King,3.8
+5,22,Parasite,4.6
+5,9,Forrest Gump,3.7
+5,32,The Pianist,4.1
+5,30,Mad Max: Fury Road,5.0
+5,21,Avengers: Endgame,4.5
+5,3,The Dark Knight,4.3
+6,21,Avengers: Endgame,4.1
+6,27,The Social Network,3.6
+6,25,Django Unchained,4.9
+6,30,Mad Max: Fury Road,4.4
+6,2,The Godfather,4.6
+6,8,Fight Club,3.8
+6,28,Joker,4.2
+6,11,The Matrix,4.8
+7,30,Mad Max: Fury Road,3.9
+7,5,Schindler's List,4.4
+7,9,Forrest Gump,4.8
+7,31,Shutter Island,4.1
+7,8,Fight Club,3.8
+7,24,The Departed,5.0
+7,18,The Green Mile,4.3
+7,26,The Usual Suspects,3.6
+8,4,12 Angry Men,4.1
+8,28,Joker,3.6
+8,32,The Pianist,4.1
+8,5,Schindler's List,5.0
+8,21,Avengers: Endgame,4.3
+8,6,Pulp Fiction,5.0
+8,26,The Usual Suspects,4.8
+8,22,Parasite,3.5
+9,8,Fight Club,4.0
+9,22,Parasite,3.9
+9,29,The Wolf of Wall Street,3.7
+9,18,The Green Mile,3.5
+9,25,Django Unchained,4.6
+9,9,Forrest Gump,4.6
+9,28,Joker,5.0
+9,21,Avengers: Endgame,4.6
+10,7,The Lord of the Rings: The Return of the King,3.8
+10,28,Joker,4.1
+10,21,Avengers: Endgame,3.7
+10,10,Inception,4.9
+10,27,The Social Network,4.9
+10,30,Mad Max: Fury Road,4.9
+10,17,Saving Private Ryan,4.4
+10,20,The Lion King,4.2
+11,8,Fight Club,3.6
+11,30,Mad Max: Fury Road,4.8
+11,12,Goodfellas,4.9
+11,29,The Wolf of Wall Street,3.6
+11,27,The Social Network,4.2
+11,26,The Usual Suspects,3.6
+11,10,Inception,4.6
+11,32,The Pianist,4.6
+12,9,Forrest Gump,4.1
+12,22,Parasite,3.8
+12,16,Gladiator,4.3
+12,18,The Green Mile,4.6
+12,6,Pulp Fiction,3.8
+12,32,The Pianist,4.0
+12,17,Saving Private Ryan,5.0
+12,20,The Lion King,4.5
+13,29,The Wolf of Wall Street,4.0
+13,32,The Pianist,4.4
+13,17,Saving Private Ryan,3.8
+13,15,Interstellar,3.8
+13,4,12 Angry Men,3.6
+13,8,Fight Club,4.4
+13,27,The Social Network,3.8
+13,3,The Dark Knight,4.9
+14,22,Parasite,4.3
+14,3,The Dark Knight,4.6
+14,17,Saving Private Ryan,4.8
+14,8,Fight Club,4.4
+14,9,Forrest Gump,3.9
+14,32,The Pianist,4.2
+14,16,Gladiator,4.1
+14,7,The Lord of the Rings: The Return of the King,3.6
+15,28,Joker,4.5
+15,12,Goodfellas,4.5
+15,14,Se7en,3.6
+15,30,Mad Max: Fury Road,4.6
+15,15,Interstellar,4.7
+15,24,The Departed,3.7
+15,2,The Godfather,3.8
+15,22,Parasite,4.3
