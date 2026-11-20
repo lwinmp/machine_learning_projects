@@ -1,0 +1,13 @@
+# Mac OS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large datasets
+bluebook-for-bulldozers/Train.csv
+bluebook-for-bulldozers/TrainAndValid.csv
+bluebook-for-bulldozers/train_tmp.csv
+
+# Large trained models
+*.pkl
