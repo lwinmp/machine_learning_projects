@@ -11,3 +11,20 @@ bluebook-for-bulldozers/train_tmp.csv
 
 # Large trained models
 *.pkl
+# Environment variables and API secrets
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
